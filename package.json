@@ -1,0 +1,35 @@
+{
+  "name": "keen-dataviz-maps",
+  "description": "Maps for keen-dataviz.js",
+  "license": "MIT",
+  "version": "1.0.0",
+  "scripts": {
+    "version": "git add .",
+    "postversion": "git push && git push --tags && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keen/keen-dataviz-maps"
+  },
+  "bugs": "https://github.com/keen/keen-dataviz-maps/issues",
+  "author": "Keen.IO <team@keen.io> (https://keen.io/)",
+  "contributors": [
+    "Dariusz Łacheta <dariusz.lacheta@keen.io> (https://github.com/dariuszlacheta)"
+  ],
+  "keywords": [
+    "d3",
+    "Stats",
+    "Statistics",
+    "Visualization",
+    "Visualizations",
+    "Data Visualization",
+    "Chart",
+    "Charts",
+    "Charting",
+    "Svg",
+    "Dataviz",
+    "Plots",
+    "Graphs",
+    "Maps"
+  ]
+}
