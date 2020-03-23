@@ -1,5 +1,5 @@
 {
-  "name": "keen-dataviz-maps",
+  "name": "@keen.io/dataviz-maps",
   "description": "Maps for keen-dataviz.js",
   "license": "MIT",
   "version": "2.0.0",
@@ -16,6 +16,9 @@
   "contributors": [
     "Dariusz Łacheta <dariusz.lacheta@keen.io> (https://github.com/dariuszlacheta)"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "d3",
     "Stats",
