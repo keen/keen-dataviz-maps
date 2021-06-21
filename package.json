@@ -2,7 +2,7 @@
   "name": "@keen.io/dataviz-maps",
   "description": "Maps for keen-dataviz.js",
   "license": "MIT",
-  "version": "7.0.0",
+  "version": "8.0.0",
   "scripts": {
     "version": "git add .",
     "postversion": "git push && git push --tags && npm publish"
